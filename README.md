@@ -1,6 +1,7 @@
 # gesture-vocalizer
 
-Objective: Develop a Gesture Vocalizer that translates various hand gestures into sounds, serving as a medium for disabled individuals to convey messages effectively.
+Objective: Develop a Gesture Vocalizer that translates various hand gestures into sounds, serving as a medium for disabled individuals to convey messages effectively.  
+
 LIST OF HARDWARE COMPONENTS
 1. Arduino UNO Microcontroller
 3. Flex Sensor
